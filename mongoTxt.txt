@@ -1,0 +1,3 @@
+gKy0gO5UJ3t7zPka
+
+mongodb+srv://idoUser:<password>@cluster0.gxeebwg.mongodb.net/?retryWrites=true&w=majority
